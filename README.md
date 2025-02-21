@@ -1,5 +1,5 @@
 # WOL-Manager
-WebAdHere WOL Manager - A powerful Wake-on-LAN tool for remote system management. Features network scanning, device management, and remote wake-up capabilities. Built with modern UI, supporting dark/light themes and multiple languages. Perfect for IT professionals and system administrators.
+Wake On Lan Manager - A powerful Wake-on-LAN tool for remote system management. Features network scanning, device management, and remote wake-up capabilities. Built with modern UI, supporting dark/light themes and multiple languages. Perfect for IT professionals and system administrators.
 
 ![Ekran görüntüsü 2025-02-20 162122](https://github.com/user-attachments/assets/00499c7b-7d0d-42ab-8148-17bc4ae4ae17)
 ![Ekran görüntüsü 2025-02-20 161541](https://github.com/user-attachments/assets/ebfd0aa3-2c0a-47de-925b-bbd94e456d32)
