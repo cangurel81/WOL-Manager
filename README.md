@@ -5,20 +5,19 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green?style=flat)
 
-Wake On Lan Manager — a powerful Wake-on-LAN tool for remote system management. Features network scanning, device management, and remote wake-up capabilities. Built with a modern UI, supporting dark/light themes and multiple languages. Perfect for IT professionals and system administrators.
+Wake-on-LAN manager for Windows: send magic packets to machines on your network, keep a saved
+device list, and scan for hosts. Dark/light themes, Turkish and English UI.
 
 ![Ekran görüntüsü 2025-02-20 162122](https://github.com/user-attachments/assets/00499c7b-7d0d-42ab-8148-17bc4ae4ae17)
 ![Ekran görüntüsü 2025-02-20 161541](https://github.com/user-attachments/assets/ebfd0aa3-2c0a-47de-925b-bbd94e456d32)
 
-## ⬇️ Download / İndir
+## ⬇️ Download
 
-[![Download for Windows](https://img.shields.io/badge/Download-WOL.Manager.v1.1.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/cangurel81/WOL-Manager/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download-WOL.Manager.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/cangurel81/WOL-Manager/releases/latest/download/WOL.Manager.exe)
 
-Latest release: **WOL.Manager.v1.1.exe** (portable, no installation required).
+Latest release: **WOL.Manager.exe** (portable, no installation required).
 
 Windows may warn about an unsigned binary: click **More info → Run anyway**.
-
-Son sürüm: **WOL.Manager.v1.1.exe** (taşınabilir, kurulum gerektirmez). İmzasız olduğu için SmartScreen uyarısı gösterebilir: **More info → Run anyway**.
 
 ## WebAdHere WOL Manager v1.1
 
@@ -46,7 +45,7 @@ Latest release of WebAdHere WOL Manager application with new features and improv
 - Internet connection (for network features)
 
 ## Installation
-1. Download `WOL.Manager.v1.1.exe` from the [latest release](https://github.com/cangurel81/WOL-Manager/releases/latest)
+1. Download `WOL.Manager.exe` from the [latest release](https://github.com/cangurel81/WOL-Manager/releases/latest)
 2. Run the application (no installation needed)
 3. Start managing your network devices
 
@@ -80,6 +79,17 @@ Visit [webadhere.com](https://webadhere.com) for support and documentation.
 - Device management
 - Theme support
 - Multi-language support
+
+## 🇹🇷 Türkçe
+
+**WOL Manager**, Windows için bir Wake-on-LAN aracıdır: ağınızdaki makinelere sihirli paket
+(magic packet) gönderir, cihaz listenizi saklar ve ağda tarama yapar. Koyu/açık tema ve Türkçe/İngilizce
+arayüz desteği vardır.
+
+- **İndirme:** [WOL.Manager.exe](https://github.com/cangurel81/WOL-Manager/releases/latest/download/WOL.Manager.exe) — taşınabilir, kurulum gerekmez.
+- **Kaynaktan çalıştırma:** `pip install -r requirements.txt` → `python main.py`
+- **Not:** Gelişmiş ağ taraması için Nmap kurulu olmalı.
+- **Lisans:** GPL-3.0.
 
 ## License
 
